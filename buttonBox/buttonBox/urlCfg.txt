@@ -1,0 +1,76 @@
+﻿%T A-C
+
+--- A
+苹果(us)            http://apple.com
+td_tech             http://app.td_tech.com
+arubanetWork        http://arubanetWorks.com
+asci-word           http://asci-word.com
+ARM                 http://arm.com
+ATT                 http://att.com
+attotech            http://attotech.com
+atrenta             http://atrenta.com
+autelan             http://autelan.com
+百度专利            http://zhuanli.baidu.com
+bbs.eetop           http://bbs.eetop.cn
+billingchina        http://billingchina.com
+博客java            http://blogjava.net
+bluetooth           http://bluetooth.org
+boardband           http://broadband-forum.org
+21电源              www.21dianyuan.com
+3gpp                www.3gp.org
+51test              www.51testing.com
+52rd                www.52rd.com
+accellera           www.accellera.org
+ACM                 http://dl.acm.org
+agilent             http://home.agilent.com
+abb                 http://abb.com
+alcutel             http://alcutel-lucent.com
+alldata             http://alldatasheep.com
+altera              http://altera.com
+alteraforum         http://alteraforum.com
+analog              http://analog.com
+android             http://android.com
+apache              http://apache.com
+
+
+
+--- B
+brocade            http://brocade.com
+brocadechina       http://brocadechina.com
+BT                 http://bt.com
+
+
+--- C
+c114               http://c114.net
+cablelabs          http://cablelabs.com
+cadence            http://cadence.com
+cad                http://cad.org.cn
+centrin            http://centrin.com.cn
+centos             http://centos.org
+xilinux            http://china.xilinux.com
+tele               http://chinatelecom.coom.cn
+t315               http://chinaunicom.com.cn
+chinaunix          http://chinaunix.c114
+appwiki            http://appwiki_checkpoint.com
+cisco              http://cisco.com
+citrix             http://citrix.com
+cnbeta             http://cnbeta.com
+cnblogs            http://cnblogs.com
+cnki               http://cnki.net
+codeGoogle         http://codeGoogle.com
+codeplex           http://codeplex.com
+codeproject        http://codeproject.com
+commvault          http://commvault.com
+ccplusplus         http://ccplusplus.com
+cree               http://cree.com
+cpan               http://cpan.org
+search-cpan        http://search.cpan.org
+cqc                http://cqc.com
+cqvip              http://cqvip.com/qk
+cs2c               http://cs2c.com.cn
+csai               http://csai.cn
+csdn               http://csdn.net
+c2ug               http://c2ug.org
+
+%T D-F
+--- D 
