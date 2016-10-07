@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/buttonBox">
-    <file>images/bg.jpg</file>
-    <file>images/import.png</file>
-  </qresource>
-</RCC>
