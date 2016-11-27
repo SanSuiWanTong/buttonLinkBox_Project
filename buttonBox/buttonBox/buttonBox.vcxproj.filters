@@ -66,17 +66,8 @@
     <ClInclude Include="GeneratedFiles\ui_buttonbox.h">
       <Filter>Generated Files</Filter>
     </ClInclude>
-    <ClInclude Include="resource.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="urlCfg.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="appImage.rc" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="images\pangpang.ico" />
   </ItemGroup>
 </Project>

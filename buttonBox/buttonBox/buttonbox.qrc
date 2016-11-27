@@ -1,6 +1,7 @@
 <RCC>
-  <qresource prefix="/buttonBox">
-    <file>images/bg.jpg</file>
-    <file>images/import.png</file>
-  </qresource>
+    <qresource prefix="/buttonBox">
+        <file>images/bg.jpg</file>
+        <file>images/import.png</file>
+        <file>images/app.png</file>
+    </qresource>
 </RCC>

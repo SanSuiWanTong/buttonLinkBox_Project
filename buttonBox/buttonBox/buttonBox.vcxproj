@@ -201,7 +201,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GeneratedFiles\ui_buttonbox.h" />
-    <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="buttonbox.qrc">
@@ -226,12 +225,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="urlCfg.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="appImage.rc" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="images\pangpang.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
