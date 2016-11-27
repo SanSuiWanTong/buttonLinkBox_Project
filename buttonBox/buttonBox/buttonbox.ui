@@ -11,7 +11,11 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>buttonBox</string>
+   <string>网址盒</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="buttonbox.qrc">
+    <normaloff>:/buttonBox/images/app.png</normaloff>:/buttonBox/images/app.png</iconset>
   </property>
   <property name="layoutDirection">
    <enum>Qt::LeftToRight</enum>
