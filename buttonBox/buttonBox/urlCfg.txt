@@ -1,4 +1,7 @@
-﻿%T A-C
+﻿--- 注释 
+--- %T tab 页名字
+
+%T A-C
 
 --- A
 苹果(us)            http://apple.com
@@ -74,3 +77,194 @@ c2ug               http://c2ug.org
 
 %T D-F
 --- D 
+
+debian             http://www.debian.org/
+dell               http://dell.com
+designers          http://designers-guid.org/
+developer          http://developer.apple.com
+dianyuan           http://dianyuan.com
+dcjchina           http://dcjchina.cn
+itpub              http://itpub.net
+download.it        http://download.itpub.net
+
+--- E
+eclipse            http://eclipse.org
+ectonline          http://ectonline.tsmc.com
+edaboard           http://edaboard.com
+eet-china          http://eet-china.com
+eetimes            http://eetimes.com
+eetop              http://eetop.cn
+emc                http://china.emc.com
+emulex             http://emulex.com
+energystart        http://energystart.gov
+cn.engadget        http://engadget.com
+epo                http://epo.org
+ericsson           http://ericsson.com
+etsi               http://etsi.org
+excelhome          http://excelhome.net
+
+--- F
+findjar            http://findjar.com
+fortinet           http://fortinet.com
+freebsd            http://freebsd.org
+freescale          http://freescale.com
+freescale_cn       http://freescale.com.cn
+fronius            http://fronius.com
+fujielectric       http://fujielectric.com
+
+%T G-I
+
+--- G
+gnu                www.gnu.org
+group_google_c++   http://groups.google.com/group/comp.lang.c++/tops
+group_google_objt  http://groups.google.com/group/comp.object/tops
+google_patent      http://google.com.hk/patents
+germanvac          http://germanvac-cn.com
+github             http://github.com
+git-scm            http://git-scm.com
+
+--- H
+h3c                http://h3c.com.cn
+hp                 http://hp.com
+hackbase           http://hackbse.com
+hackbase_bbs       http://bbs.hackbase.com
+hkxy               http://hkxy.com
+hyzl               http://hyzl.cnipr.cn
+
+--- I
+ibm                http://ibm.com
+ieee               http://ieee.org
+ietf               http://ietf.com
+intel              http://intel.com
+ipsapro            http://ipsapro.isoftsoue.com
+iteye              http://iteye.com
+ixiacom            http://ixiacom.com
+
+%T J-L
+
+---J
+java               http://java.net
+java_sun           http://java.sun.com
+javaeye            http://javaeye.com
+jifang360          http://jifang360.com
+juniper            http://juniper.net
+
+---K
+kaco-newenergy     http://kaco-newenergy.com
+kerneltravel       http://kerneltravel.net
+k.hisoft           http://k.hisoft.com
+
+---L
+latticesemi        http://latticesemi.com
+lauterbach         http://lauterbach.com
+lenovo             http://lenovo.com
+lightreading       http://lightreading.com
+linear             http://linear.com
+linuxforum         http://linuxforum.net
+linuxsir           http://linux.org
+llum               http://llum.org
+loveunix           http://loveunix.net
+
+%T M-O
+---M
+maxmind            http://maxmind.com
+mentor             http://mentor.com
+mentor             http://supportnet.mentor.com
+micron             http://micron.com
+microsemi          http://microsemi.com
+mitsubishiele      http://mitsubishielectric.com
+mitsubishiele_cn   http://mitsubishielectric.com.cn
+msdn               http://msdn.microsoft.com
+mindspeed          http://mindspeed.com
+mips               http://mips.com
+mwtee              http://mwtee.com
+                   
+---N               
+net130             http://net130.com
+netbeans           http://netbeans.org
+netlogicmicro      http://netlogicmicro.com
+netapp             http://netapp.com/us
+nsn                http://nsn.com
+novas              http://novas.com
+novell             http://novell.com
+nxp                http://nxp.com 
+
+---O
+open_open          http://open_open.com
+openflow           http://openflow.org
+openswitch         http://openswitch.org
+openmobile         http://openmobilealliouce.org
+openware           ftp://openware.byr.edu.cn
+open_iscsi         http://open_iscsi.org/bits
+oracle             http://oracle.com
+paloalt            http://apps.paloaltonetworks.com/applipedia
+perl               http://perl.org
+pdlib              http://pdlib.com
+ptc                http://ptc.com
+power-one          http://power-one.com
+python             http://python.org
+pudn               http://pydn.com
+
+
+%T P-R
+---P
+
+---Q
+qlogic             qlogic.com
+
+---R
+radiant            radiantzeuax.com
+rallydev           rallydev.com
+redflag            redflag-linux.com
+redhad             redhad.com
+redhacker          redhacker.cn
+refusol            refusol.net
+refu-elektronik    refu-elektronik.del
+rfc-editor         rfc-editor.org
+robad              robad-schwarz.com
+
+%T S-U
+---S
+seleniumhq         docs.seleniumhq.org
+semikron           semikron.com
+search.cnpat       search-cpan.com.cn
+sipo               sipo.gov.cn
+sma                sma.de
+sma-ameria         sma-ameria.com
+sma-china          sma-china.com.cn
+smallcell          smallcellforum.org
+smics              smisc.com
+soopat             soopat.com
+solarmax           solarmax
+sourgeforge        sourgeforge.net
+spirent.com        spirent.com
+dl.sourgeforge     download.sourgeforge.net
+springsource       springsource.org
+apache             subversion.apache.org
+sungrowpower       sungrowpower.com
+suse               suse.com
+stackoverflow      stackoverflow.com
+cdmatech           support.cdmatech.com
+spirent            support.spirent.com.com
+synopsys           synopsys.com
+sencha             sencha.com
+springsource       springsource.org
+
+
+---T
+teck               teck.com
+tektalk            tektalk.com
+
+---U
+%T V-X
+---V
+---W
+---X
+%T Y-Z
+---Y
+---Z 
+
+
+
+
+ 
